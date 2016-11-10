@@ -1,0 +1,11 @@
+C:\ProyectosVCN\AppCalculadora1\AppCalculadora1\bin\Debug\AppCalculadora1.exe.config
+C:\ProyectosVCN\AppCalculadora1\AppCalculadora1\obj\Debug\AppCalculadora1.vbprojResolveAssemblyReference.cache
+C:\ProyectosVCN\AppCalculadora1\AppCalculadora1\obj\Debug\AppCalculadora1.Form1.resources
+C:\ProyectosVCN\AppCalculadora1\AppCalculadora1\obj\Debug\AppCalculadora1.Resources.resources
+C:\ProyectosVCN\AppCalculadora1\AppCalculadora1\obj\Debug\AppCalculadora1.vbproj.GenerateResource.Cache
+C:\ProyectosVCN\AppCalculadora1\AppCalculadora1\bin\Debug\AppCalculadora1.exe
+C:\ProyectosVCN\AppCalculadora1\AppCalculadora1\bin\Debug\AppCalculadora1.pdb
+C:\ProyectosVCN\AppCalculadora1\AppCalculadora1\bin\Debug\AppCalculadora1.xml
+C:\ProyectosVCN\AppCalculadora1\AppCalculadora1\obj\Debug\AppCalculadora1.exe
+C:\ProyectosVCN\AppCalculadora1\AppCalculadora1\obj\Debug\AppCalculadora1.xml
+C:\ProyectosVCN\AppCalculadora1\AppCalculadora1\obj\Debug\AppCalculadora1.pdb
